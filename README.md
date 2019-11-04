@@ -1,6 +1,13 @@
 # sem3-t3
 Тема 3. Строки. Байты. Файлы
 
+# ИСР 3.1
+
+*Jupyter
+*Pandas
+*NumPy
+*pprint
+*__repr__
 
 ## repls:
 
