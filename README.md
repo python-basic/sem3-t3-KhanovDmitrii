@@ -3,11 +3,11 @@
 
 # ИСР 3.1
 
-*Jupyter
-*Pandas
-*NumPy
-*pprint
-*__repr__
+* Jupyter
+* Pandas
+* NumPy
+* pprint
+* __repr__
 
 ## repls:
 
